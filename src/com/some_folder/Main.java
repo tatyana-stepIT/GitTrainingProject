@@ -1,4 +1,4 @@
-package com.stepIT;
+package com.some_folder;
 
 public class Main {
 
